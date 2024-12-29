@@ -1,0 +1,1 @@
+This is a small rock-paper-scissors project to rehash some javascript concepts 
